@@ -1,0 +1,16 @@
+/* style.css for 05 */
+
+.container .text{
+    background-color: #f3f390;
+    color: #ff0000;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Below are some other possible descendant combinators:
+
+div p
+div .text
+.container p
+
+*/
