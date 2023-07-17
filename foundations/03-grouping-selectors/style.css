@@ -1,0 +1,16 @@
+/*style.css for 03 */
+
+.first-butt
+.second-butt{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.first-butt{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.second-butt{
+    background-color: #ffff00;
+}
