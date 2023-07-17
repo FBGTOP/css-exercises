@@ -1,0 +1,21 @@
+/* style.css for 02 */
+
+.odd{
+    background-color: #F88FF1;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.adjust-font-size{
+    font-size: 24px;
+}
+
+#two{
+    color: #1810E6; 
+    font-size: 36px;
+}
+
+
+#four{
+    background-color: #9CF88F;
+    font-weight: bold;
+}
