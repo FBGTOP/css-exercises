@@ -31,15 +31,11 @@ body {
 
 ul{
   display: flex;
-
+  list-style: none;
 }
 
 img {
   width: 600px;
-}
-
-ul{
-  list-style: none;
 }
 
 a{
